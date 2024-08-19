@@ -9,8 +9,8 @@
     "babel-plugin"
   ],
   "dependencies": {
-    "@babel/helper-builder-react-jsx": "7.0.0-rc.2",
-    "@babel/helper-plugin-utils": "7.0.0-rc.2"
+    "@babel/helper-builder-react-jsx": "7.24.7",
+    "@babel/helper-plugin-utils": "7.24.8"
   },
   "peerDependencies": {
     "@babel/core": "^7.0.0-0"
