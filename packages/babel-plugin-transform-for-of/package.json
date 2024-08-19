@@ -9,7 +9,7 @@
     "babel-plugin"
   ],
   "dependencies": {
-    "@babel/helper-plugin-utils": "7.0.0-rc.2"
+    "@babel/helper-plugin-utils": "7.24.8"
   },
   "peerDependencies": {
     "@babel/core": "^7.0.0-0"
