@@ -6,6 +6,6 @@
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
-    "@babel/types": "7.0.0-rc.2"
+    "@babel/types": "7.25.0"
   }
 }
